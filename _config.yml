@@ -1,3 +1,3 @@
-	title: Robert Gambrel/'s website
+	title: "Robert Gambrel's website"
 	markdown: kramdown
 	permalink: /blog/:year/:month/:day/:title
