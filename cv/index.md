@@ -28,7 +28,9 @@ I was trained in Stata as a graduate student at the University of Minnesota, wit
 
 After starting as a Data Analyst at VUMC, I switched from Stata to R after needing the ability to work with multiple datasets simultaneously, and because its easier (to me) way of writing functions. Since learning about the hadleyverse programs (dplyr, tidyr, ggplot2), I haven\'t looked back. I learned SAS from a watching a couple of the SAS Institute\'s free tutorials and lots of googling. Similarly, my Python skills come from a few EdX and Coursera intro courses and knowing enough about errors to troubleshoot and know the right terms to search when I\'m stuck.
 
+I\'m relatively new to GitHub, but I\'ve been using local git version control since I started my current job.
+
 # Prior Experience
 As a graduate student, I worked as a research assistant on multiple projects at the University of Minnesota, including survey analysis and time-series conflict forecasting. I also worked for two years as an editorial assistant for Comparative Political Studies, a peer-reviewed journal in comparative politics.
 
-Before graduate school, I worked as a client advocate at the [Tennessee Justice Center], a nonprofit law firm in Nashville, TN, specializing in advocacy for expanding health care options for underserved populations and ensuring that eligible beneficiaries receive the care to which they are entitled.
+Before graduate school, I worked as a client advocate at the [Tennessee Justice Center](http://www.tnjustice.org), a nonprofit law firm in Nashville, TN, specializing in advocacy for expanding health care options for underserved populations and ensuring that eligible beneficiaries receive the care to which they are entitled.
