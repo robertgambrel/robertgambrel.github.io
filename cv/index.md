@@ -2,7 +2,7 @@
 layout: default
 title: Robert Gambrel - CV
 ---
-For a summary of my experience, please [download a pdf of my latest cv](/assets/Samplecsv.pdf).
+For a summary of my experience, please [download a pdf of my latest cv](/assets/2016 04  Robert Gambrel Resume.pdf).
 
 # Current Work
 I have been a Health Policy Data Analyst in the Department of Health Policy at the Vanderbilt University School of Medicine since March 2015. My work touches on a wide range of topics and includes:
@@ -22,7 +22,7 @@ I have been a Health Policy Data Analyst in the Department of Health Policy at t
 - Other general programming tasks
 	- I have written Python programs to parse SAS import programs and convert them to Stata import .do files, when other analysts did not have access to SAS and there were too many import scripts to recode manually
 	- I have written Python programs to automatically download large lists of csv datasets from remote repositories, saving the analyst from having to download them one-by-one manually
-	
+
 # Programming Knowledge
 I was trained in Stata as a graduate student at the University of Minnesota, with some courses teaching R as well. While there, I taught myself Lyx and ultimately moved to pure Latex for all of my presentations and papers.
 
