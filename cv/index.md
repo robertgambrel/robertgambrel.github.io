@@ -26,7 +26,7 @@ I have been a Health Policy Data Analyst in the Department of Health Policy at t
 # Programming Knowledge
 I was trained in Stata as a graduate student at the University of Minnesota, with some courses teaching R as well. While there, I taught myself Lyx and ultimately moved to pure Latex for all of my presentations and papers.
 
-After starting as a Data Analyst at VUMC, I switched from Stata to R after needing the ability to work with multiple datasets simultaneously, and because its easier (to me) way of writing functions. Since learning about the hadleyverse programs (dplyr, tidyr, ggplot2), I haven\'t looked back. I learned SAS from a watching a couple of the SAS Institute\'s free tutorials and lots of googling. Similarly, my Python skills come from a few EdX and Coursera intro courses and knowing enough about errors to troubleshoot and know the right terms to search when I\'m stuck.
+After starting as a Data Analyst at VUMC, I switched from Stata to R after needing the ability to work with multiple datasets simultaneously, and because of its easier (to me) way of writing functions. Since learning about the [hadleyverse programs](http://www.github.com/hadley) (dplyr, tidyr, ggplot2, and many others), I haven\'t looked back. I learned SAS from a watching a couple of the SAS Institute\'s free tutorials and lots of googling. Similarly, my Python skills come from a few EdX and Coursera intro courses and knowing enough about errors to troubleshoot and know the right terms to search when I\'m stuck.
 
 I\'m relatively new to GitHub, but I\'ve been using local git version control since I started my current job.
 
