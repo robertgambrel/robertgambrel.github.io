@@ -14,7 +14,7 @@ I have been a Health Policy Data Analyst in the Department of Health Policy at t
 	- I have written programs to implement a novel approach to analyzing episodes of care after inpatient treatment and determine which patients are treated by pilot program physicians
 - Combining public and private records on providers of post-acute care services using R
 	- Converting long-form data into wide-form dataframes using custom extraction programs
-	- Converting point-in-time data into longitudinal datasets to allow for simpler analysis of yearly trends in sector ownership
+	- Converting point-in-time data into panel datasets to allow for simpler analysis of yearly trends in sector ownership
 	- Managing compliance survey database of multiple tables, some with 1,000,000+ rows or 1000+ variables
 - Tracking monthly employment in health sector jobs and comparing employment level changes with changes in public spending on health care
 	- I use Python to access Federal Reserve data through their API services
@@ -31,6 +31,6 @@ After starting as a Data Analyst at VUMC, I switched from Stata to R after needi
 I\'m relatively new to GitHub, but I\'ve been using local git version control since I started my current job.
 
 # Prior Experience
-As a graduate student, I worked as a research assistant on multiple projects at the University of Minnesota, including survey analysis and time-series conflict forecasting. I also worked for two years as an editorial assistant for Comparative Political Studies, a peer-reviewed journal in comparative politics.
+As a graduate student, I worked as a research assistant on multiple projects at the University of Minnesota, including survey analysis and time-series conflict forecasting. My substantive focus was on economic development, democratization, and public spending; my methodological training centered on game theory, formal models, and quantitative methods. I also worked for two years as an editorial assistant for [Comparative Political Studies](http://cps.sagepub.com/), a peer-reviewed journal in comparative politics.
 
 Before graduate school, I worked as a client advocate at the [Tennessee Justice Center](http://www.tnjustice.org), a nonprofit law firm in Nashville, TN, specializing in advocacy for expanding health care options for underserved populations and ensuring that eligible beneficiaries receive the care to which they are entitled.
