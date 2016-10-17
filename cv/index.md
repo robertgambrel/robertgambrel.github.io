@@ -2,7 +2,7 @@
 layout: default
 title: Robert Gambrel - CV
 ---
-For a summary of my experience, please [download a pdf of my latest cv](/assets/2016 04  Robert Gambrel Resume.pdf).
+For a summary of my experience, please [download a pdf of my latest cv](/assets/2016 10 Robert Gambrel Resume.pdf).
 
 # Current Work
 I have been a Health Policy Data Analyst in the Department of Health Policy at the Vanderbilt University School of Medicine since March 2015. My work touches on a wide range of topics and includes:
