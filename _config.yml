@@ -2,3 +2,4 @@ title: "Robert Gambrel's website"
 name: "Robert Gambrel"
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+future: true
