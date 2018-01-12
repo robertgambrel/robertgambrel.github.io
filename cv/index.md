@@ -2,14 +2,12 @@
 layout: default
 title: Robert Gambrel - CV
 ---
-For a summary of my experience, please [download a pdf of my latest cv](/assets/2016 10 Robert Gambrel Resume.pdf).
+For a summary of my experience, please [download a pdf of my latest cv](/assets/2018 01 Robert Gambrel Resume.pdf).
 
 # Current Work
-I am a Data Specialist for [Intermedix](https://www.intermedix.com), a Nashville-based healthcare and disaster preparedness company. I am on the Analytics team, mostly focusing on Revenue Integrity Analytics. We use client electronic medical records, extract variables from them, and create models to identify encounters where we suspect charges were miscoded or undercoded. We then have trained medical coders review our findings, which is fed back into the models for ongoing recallibration. 
+I am a Data Scientist for [Intermedix](https://www.intermedix.com), a Nashville-based healthcare and disaster preparedness company. I am on the Data Science team, and we focus on a variety of analytics projects. Using client medical records, we make a variety of predictions: whether a claim is undercoded or miscoded, whether it will be paid by an insurer, and how long it will take to pay.
 
-We also take a deep dive into the client's coding and billing practices, looking for patterns that can lead to missed revenues. These can include identifying coders that systemically undercode, payer groups that do not pay at contractual rates, and undercollection of patient copays and deductibles. 
-
-We currently have parallel data processing centers: one is housed on Intermedix network servers, and holds client data that can be handled locally. We also have AWS storage and compute clusters running to address data that require more capacity.
+We also take a deep dive into the client's coding and billing practices, looking for patterns that can lead to missed revenues. These can include identifying coders that systemically undercode, payer groups that do not pay at contractual rates, and undercollection of patient copays and deductibles.
 
 # Prior Analytics Work
 I was a Health Policy Data Analyst in the Department of Health Policy at the Vanderbilt University School of Medicine since From March 2015 through December 2016. My work touched on a wide range of topics and included:
