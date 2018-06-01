@@ -16,6 +16,11 @@ The [dplyr](https://github.com/hadley/dplyr) package for data manipulation has m
 
 Hadley Wickham's book on [creating and publishing R packages](http://r-pkgs.had.co.nz/) guided me through creating two of my own packages: [medicare](https://github.com/robertgambrel/medicare) and [tabler](https://github.com/robertgambrel/tabler). In addition, his book on [advanced R programming](http://adv-r.had.co.nz/), especially his coverage of non-standard evaluation, really helped me utilize the functionality from his other packages when writing my own.
 
+<a name = 'python'></a>
+
+# Python
+I learned the Python basics by working through all the [Learn Python the Hard Way](https://learnpythonthehardway.org/) lessons and completing the [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) course from MIT on edX. After those, I continued to learn by doing and now conduct machine learning, web scraping, and task automation using Python and its libraries.
+
 <a name = 'sas'></a>
 
 # SAS

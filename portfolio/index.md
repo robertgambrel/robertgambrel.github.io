@@ -11,5 +11,3 @@ I have published an R package called `medicare` to [CRAN](https://CRAN.R-project
 I wrote the [tabler](https://www.github.com/robertgambrel/tabler) package to make it quick and easy to combine regression output from multiple models into simple tables (either csv or xls). Since my workflow typically involved iterative modeling adjustments based on feedback for the rest of the team, this package made it easy to condense a variety of options into a format that others could read. I'm still testing this package, so it's not released on CRAN just yet.
 
 My [GitHub page](https://github.com/robertgambrel) also has examples of other code snippets I've used to make my life easier.
-
-In the future, I hope to update this page with additional examples of exhibits I've prepared at work, but those are still in the publication pipeline.
