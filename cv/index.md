@@ -2,10 +2,10 @@
 layout: default
 title: Robert Gambrel - CV
 ---
-For a summary of my experience, please [download a pdf of my latest cv](/assets/2018 01 Robert Gambrel Resume.pdf).
+For a summary of my experience, please [download a pdf of my latest cv](/assets/2018_06_Gambrel_Resume.pdf).
 
 # Current Work
-I am a Data Scientist for [Intermedix](https://www.intermedix.com), a Nashville-based healthcare revenue cycle management. I am on the Data Science team, and we focus on a variety of analytics projects. Using client medical records, we make a variety of predictions: whether a claim is undercoded or miscoded, whether it will be paid by an insurer, and how long it will take to pay. We also provide clients with predictions on whether scheduled patients will attend their appointments.
+I am a Data Scientist for [Intermedix](https://www.intermedix.com), a Nashville-based healthcare revenue cycle management. I am on the Data Science team, and we pursue a number of analytics projects. Using client medical records, we make a variety of predictions: whether a claim is undercoded or miscoded, whether it will be paid by an insurer, and how long it will take to pay. We also provide clients with predictions on whether scheduled patients will attend their appointments.
 
 While our main focus is prospective analysis, we also conduct retrospective reporting on the client's coding and billing practices, looking for patterns that can lead to missed revenues. These can include identifying coders that systemically undercode, payer groups that do not pay at contractual rates, and undercollection of patient copays and deductibles.
 
