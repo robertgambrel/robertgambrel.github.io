@@ -6,6 +6,7 @@ For a summary of my experience, please [download a pdf of my latest cv](/assets/
 
 ## Publications
 Some of the papers on which I was the chief data analyst include:
+- [*The association between medicare accountable care organization enrollment and breast, colorectal, and prostate cancer screening*](https://onlinelibrary.wiley.com/doi/abs/10.1002/cncr.31700), Cancer
 - [*Corporate Investors Increased Common Ownership In Hospitals And The Postacute Care And Hospice Sectors*](https://www.healthaffairs.org/doi/10.1377/hlthaff.2017.0591), Health Affairs
 - [*Medicare Accountable Care Organization Enrollment and Appropriateness of Cancer Screening*](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2674256), Journal of the American Medical Association - Internal Medicine
 - [*Understanding Trends in Medicare Spending, 2007–2014*](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.12845), Health Services Research
